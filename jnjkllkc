@@ -1,0 +1,9 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 3a1ec0c..5281147 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,3 +1,4 @@[m
+ <p>hello </p>[m
+ <p>para for new branch</p>[m
+[32m+[m[32m<p>para for new branch(show)</p>[m
+ <p>para for new branch(display)</p>[m
